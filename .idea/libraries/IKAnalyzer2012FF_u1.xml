@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="IKAnalyzer2012FF_u1">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/lib/IKAnalyzer2012FF_u1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$APPLICATION_HOME_DIR$/lib/IKAnalyzer2012FF_u1.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/lib/IKAnalyzer2012FF_u1.jar!/" />
+    </SOURCES>
+  </library>
+</component>
